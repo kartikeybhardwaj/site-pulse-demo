@@ -10,6 +10,18 @@ This is an interactive demonstration of the Pulse project. Explore the features 
 
 Visit the live demo: [demo.pulse.kartikeybhardwaj.com](https://demo.pulse.kartikeybhardwaj.com)
 
+## Pre-seeded Accounts
+
+The demo comes with pre-configured test accounts:
+
+| Email | Password | Role |
+| --- | --- | --- |
+| `demo@pulse.app` | `demo` | Owns 3 polls (techstack, spirit, private) |
+| `alice@pulse.app` | `alice` | Has votes on multiple polls |
+| `bob@pulse.app` | `bob` | Owns the lunch poll |
+
+You can also sign up with any new credentials. Clear localStorage to reset the demo to its seeded state.
+
 ## Getting Started
 
 ### Prerequisites
