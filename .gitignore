@@ -64,9 +64,26 @@ node_modules/
 
 # dotenv environment variables file
 .env
+.env.*
+*.env
 
 # dataconnect generated files
 .dataconnect
 
+# Build output directories
+dist/
+build/
+.svelte-kit/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
 # System files
 .DS_Store
+Thumbs.db
