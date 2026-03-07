@@ -39,15 +39,6 @@ You can also sign up with any new credentials. Clear localStorage to reset the d
   firebase login
   ```
 
-### Local Development
-
-Install dependencies and start the development server:
-
-```bash
-npm install
-npm run dev
-```
-
 ### Testing Locally
 
 Start the Firebase emulator:
